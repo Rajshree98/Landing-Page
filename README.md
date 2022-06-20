@@ -1,2 +1,4 @@
 # Landing-Page
-Udacity Frontend Nanodegree, Project 2
+This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+
+[Click Here To Visit The Landing Page](https://joyful-kulfi-d20ecb.netlify.app)
